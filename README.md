@@ -2,6 +2,17 @@
 
 This is the implementation of [Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation, MIDL 2023](). 
 
+## Architectures
+
+<p align="center">
+<img src="figures/cascaded_merit_architecture.png" width=100% height=40% 
+class="center">
+</p>
+
+<p align="center">
+<img src="figures/parallel_merit_architecture.png" width=100% height=40% 
+class="center">
+</p>
 
 ## Usage:
 ### Recommended environment:
@@ -21,7 +32,7 @@ Note: If you use the preprocessed data from [TransUNet](https://drive.google.com
 Download the preprocessed ACDC dataset from [Google Drive of MT-UNet](https://drive.google.com/file/d/13qYHNIWTIBzwyFgScORL2RFd002vrPF2/view) and move into './data/ACDC/' folder.
 
 ### Pretrained model:
-You should download the pretrained MaxViT model from [Google Drive](https://drive.google.com/drive/folders/1Eu8v9vMRvt-dyCH0XSV2i77lAd62nPXV?usp=sharing), and then put it in the './pretrained_pth/maxvit/' folder for initialization.
+You should download the pretrained MaxViT models from [Google Drive](https://drive.google.com/drive/folders/1k-s75ZosvpRGZEWl9UEpc_mniK3nL2xq?usp=share_link), and then put it in the './pretrained_pth/maxvit/' folder for initialization.
 
 ### Training:
 ```
