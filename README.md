@@ -1,6 +1,6 @@
 # MERIT
 
-This is the implementation of [Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation, MIDL 2023](). 
+This is the implementation of [Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation, MIDL 2023](https://arxiv.org/abs/2303.16892). 
 
 ## Architectures
 
@@ -62,7 +62,7 @@ We are very grateful for these excellent works [timm](https://github.com/hugging
     author    = {Rahman, Md Mostafijur and Marculescu, Radu},
     title     = {Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation},
     booktitle = {MIDL},
-    month     = {June},
+    month     = {July},
     year      = {2023},
     pages     = {}
 } 
