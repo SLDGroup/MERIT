@@ -5,12 +5,12 @@ This is the implementation of [Multi-scale Hierarchical Vision Transformer with 
 ## Architectures
 
 <p align="center">
-<img src="figures/cascaded_merit_architecture.png" width=100% height=40% 
+<img src="figures/cascaded_merit_architecture.jpg" width=100% height=40% 
 class="center">
 </p>
 
 <p align="center">
-<img src="figures/parallel_merit_architecture.png" width=100% height=40% 
+<img src="figures/parallel_merit_architecture.jpg" width=100% height=40% 
 class="center">
 </p>
 
