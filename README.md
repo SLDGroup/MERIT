@@ -5,12 +5,19 @@ This is the implementation of [Multi-scale Hierarchical Vision Transformer with 
 ## Architectures
 
 <p align="center">
-<img src="figures/cascaded_merit_architecture.jpg" width=100% height=40% 
+<img src="figures/cascaded_merit_architecture.jpg" width=80% height=40% 
 class="center">
 </p>
 
 <p align="center">
-<img src="figures/parallel_merit_architecture.jpg" width=100% height=40% 
+<img src="figures/parallel_merit_architecture.jpg" width=80% height=40% 
+class="center">
+</p>
+
+## Qualitative Results on Synapse Multi-organ dataset
+
+<p align="center">
+<img src="figures/qualitative_results.png" width=60% height=40% 
 class="center">
 </p>
 
