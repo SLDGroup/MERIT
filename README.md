@@ -65,12 +65,11 @@ We are very grateful for these excellent works [timm](https://github.com/hugging
 ## Citations
 
 ``` 
-@InProceedings{Rahman_2023_MIDL,
-    author    = {Rahman, Md Mostafijur and Marculescu, Radu},
-    title     = {Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation},
-    booktitle = {MIDL},
-    month     = {July},
-    year      = {2023},
-    pages     = {}
-} 
+@inproceedings{rahman2023multi,
+  title={Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation},
+  author={Rahman, Md Mostafijur and Marculescu, Radu},
+  booktitle={Medical Imaging with Deep Learning (MIDL)},
+  month={July},
+  year={2023}
+}
 ```
