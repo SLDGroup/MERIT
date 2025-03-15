@@ -8,7 +8,7 @@ This is the implementation of [Multi-scale Hierarchical Vision Transformer with 
 #### 🔍 **Check out our CVPR 2024 paper! [EMCAD](https://github.com/SLDGroup/EMCAD)** 
 #### 🔍 **Check out our CVPRW 2024 paper! [PP-SAM](https://github.com/SLDGroup/PP-SAM)** 
 #### 🔍 **Check out our WACV 2024 paper! [G-CASCADE](https://github.com/SLDGroup/G-CASCADE)**
-#### 🔍 **Check out our WACV 2024 paper! [CASCADE](https://github.com/SLDGroup/CASCADE)**
+#### 🔍 **Check out our WACV 2023 paper! [CASCADE](https://github.com/SLDGroup/CASCADE)**
 
 ## Architectures
 
